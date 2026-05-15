@@ -27,3 +27,9 @@
 
 ```bash
 pip install -r requirements.txt
+
+Данные
+Исходный CSV-файл с LLM-разметкой (classification_new.csv) не включён в репозиторий из-за размера. Пример данных представлен в data_examples.json.
+
+Автор
+Хевелев Андрей Александрович, ЮФУ, 2026
