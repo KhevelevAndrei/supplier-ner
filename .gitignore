@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Модели и данные (большие файлы)
+classification_new.csv
+clean_dataset.json
+*.ckpt
+*.bin
+checkpoint/
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Другое
+*.log
+*.tmp
